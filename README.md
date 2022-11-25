@@ -69,6 +69,6 @@ In this game, the right pile of cards (original cards) and the left pile of card
 
 ***Good luck playing and I hope you have lots of fun with this digital card game I programmed! Feel free to look at the source code. -Jaden*** 
 
-Please respect my code license (you must use the GNU Affero GPL License if you use this source code or a derivative of it in another project) and contact me when you want to do anything with this project to change it in any imporant way. -Jaden
+Please respect my code license (you must use the GNU Affero GPL License if you use this source code or a derivative of it in another project) and contact me when you want to do anything with this project to change it in any important way. -Jaden
 
 ***This game is not a replacement to the equivalent physical card game that is better for playing with family or friends. The code license to this game is only the license for the code, and does not mean I own the "game concept" / "game idea" / "game design" that has originated from another physical card game.***
