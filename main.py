@@ -337,7 +337,7 @@ class Game:
                                             else:
                                                 print("Choice not recognized. Try something else.")
                                         else:
-                                            i = input(f'\nThe top card in cards is hidden.\nThere is no card in the stack. \n\nWhat choice are you making, {player.name.capitalize()}? \n(options: "pull from cards" \n->')
+                                            i = input(f'\nThe top card in cards is hidden.\nThere is no card in the stack. \n\nWhat choice are you making, {player.name.capitalize()}? \n(options: "pull from cards") \n->')
                                             if i in ["pull from cards"]:
                                                 self.playerChoiceInput = i
                                                 inputIsValid = True
