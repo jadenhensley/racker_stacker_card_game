@@ -72,3 +72,11 @@ In this game, the right pile of cards (original cards) and the left pile of card
 Please respect my code license (you must use the GNU Affero GPL License if you use this source code or a derivative of it in another project) and contact me when you want to do anything with this project to change it in any important way. -Jaden
 
 ***This game is not a replacement to the equivalent physical card game that is better for playing with family or friends. The code license to this game is only the license for the code, and does not mean I own the "game concept" / "game idea" / "game design" that has originated from another physical card game.***
+
+# Screenshots
+
+<img src="https://github.com/jadenhensley/racker_stacker_card_game/blob/main/screenshots/screenshot_title.png" width=500 height=400>
+
+<img src="https://github.com/jadenhensley/racker_stacker_card_game/blob/main/screenshots/screenshot_0.png" width=400 height=400>
+
+<img src="https://github.com/jadenhensley/racker_stacker_card_game/blob/main/screenshots/screenshot_1.png" width=400 height=400>
